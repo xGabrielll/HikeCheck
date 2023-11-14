@@ -1,0 +1,10 @@
+name: HikeCheck
+version: '2.1.7'
+main: pl.xgabriel.hikecheck.Main
+api-version: '1.18'
+description: Plugin na sprawdzanie
+
+
+commands:
+  przyznajesie:
+    description: Przyznanie sie do cheatów xD
